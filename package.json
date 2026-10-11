@@ -3,7 +3,7 @@
   "displayName": "Guitar Tuner",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifeforge-app/lifeforge-module-guitarTuner.git"
+    "url": "https://github.com/Lifeforge-app/lifeforge-module-guitar-tuner.git"
   },
   "version": "0.0.1",
   "type": "module",
