@@ -1,13 +1,13 @@
 {
-  "name": "@lifeforge/lifeforge--guitar-tuner",
+  "name": "@lifeforge/melvinchia3636--guitar-tuner",
   "displayName": "Guitar Tuner",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lifeforge-app/lifeforge-module-guitar-tuner.git"
+    "url": "https://github.com/melvinchia3636/lifeforge-module-guitar-tuner.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
-  "author": "Melvin Chia <melvinchia623600@gmail.com>",
+  "author": "melvinchia3636 <melvinchia623600@gmail.com>",
   "description": "Tune your guitar to perfection with real-time pitch detection.",
   "scripts": {
     "typecheck": "cd client && tsc",
